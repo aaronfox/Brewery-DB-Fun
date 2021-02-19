@@ -1,2 +1,2 @@
 # Brewery-DB-Fun
-Toying with the Brewery API for practicing with using their API
+Toying with the [Brewery DB API](https://www.brewerydb.com/) for practicing with using their API
