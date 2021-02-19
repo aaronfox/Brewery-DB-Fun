@@ -1,4 +1,4 @@
-from breweries import Breweries
+from brewery_package.breweries import Breweries
 import os
 from dotenv import load_dotenv
 
@@ -10,3 +10,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    

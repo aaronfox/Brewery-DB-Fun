@@ -29,5 +29,6 @@ class Breweries:
         random_brewery_state_or_region = random_brewery_location_json['data'][0]['region']
 
         print(f'You\'re headed to {random_brewery_state_or_region}! Have fun at {brewery_name}!')
+        return "SUCCESS"
 
 
